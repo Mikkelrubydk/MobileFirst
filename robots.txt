@@ -1,0 +1,6 @@
+# aarhusstreetfood.dk
+
+User-Agent: *
+Disallow:
+
+Don't block anything
